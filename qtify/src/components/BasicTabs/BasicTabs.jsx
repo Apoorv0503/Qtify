@@ -73,3 +73,7 @@ export default function BasicTabs({ handleChangeIndex}) {
     </Box>
   );
 }
+
+
+// git config --global --unset user.name
+// git config --global --unset user.email
